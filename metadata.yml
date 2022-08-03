@@ -1,0 +1,12 @@
+---
+:id: 101180180
+:submitters:
+- :name: Dang Duong
+  :email: duongd@union.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-19 03:20:24.436021000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-18 19:20:24.436021000 Z
+:status: processed
+:score: 93.0
